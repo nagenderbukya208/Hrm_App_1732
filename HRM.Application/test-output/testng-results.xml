@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T09:45:47 IST" name="Default suite" finished-at="2024-08-12T09:46:12 IST" duration-ms="25250">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T09:45:47 IST" name="Default test" finished-at="2024-08-12T09:46:12 IST" duration-ms="25250">
+      <class name="integration.Sce_4_ProEdit">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:45:46 IST" name="configBS" finished-at="2024-08-12T09:45:47 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:45:47 IST" name="configBC" finished-at="2024-08-12T09:45:51 IST" duration-ms="3897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:45:51 IST" name="configBM" finished-at="2024-08-12T09:45:52 IST" duration-ms="1394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="editProj()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:45:52 IST" name="editProj" finished-at="2024-08-12T09:46:00 IST" duration-ms="7644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProj -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:46:00 IST" name="configAM" finished-at="2024-08-12T09:46:12 IST" duration-ms="11938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:46:12 IST" name="configAC" finished-at="2024-08-12T09:46:12 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:integration.Sce_4_ProEdit@327514f]" started-at="2024-08-12T09:46:12 IST" name="configAS" finished-at="2024-08-12T09:46:12 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- integration.Sce_4_ProEdit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
